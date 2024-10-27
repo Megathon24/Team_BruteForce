@@ -1,5 +1,11 @@
 # Team_BruteForce
 megathon 2024
+- Install the requirements first
+- To install requirements run the following
+```
+pip install -r requirements.txt
+
+```
 ### How to Run:
 - To be run on terminal
 * run the following command after cloning the repository
